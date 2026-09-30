@@ -1,6 +1,6 @@
 streamlit
 plotly
-
+matplotlib
 altair==6.2.2
 anyio==4.15.0
 attrs==26.1.0
